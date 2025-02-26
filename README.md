@@ -15,3 +15,8 @@ How It Works:
 1. Takes user input (ensuring it’s non-negative).
 2. Iterates through the largest coin denominations, subtracting from the total and counting coins.
 3. Displays the minimum number of coins required.
+
+What I Learned:
+📌 Using loops and conditions to implement a greedy algorithm.
+📌 Ensuring input validation in C.
+📌 Optimizing mathematical operations for efficiency.
